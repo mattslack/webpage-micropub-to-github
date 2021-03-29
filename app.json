@@ -8,6 +8,7 @@
     "jekyll"
   ],
   "repository": "https://github.com/voxpelli/webpage-micropub-to-github",
+  "stack": "heroku-20",
   "env": {
     "MICROPUB_GITHUB_TOKEN": {
       "description": "An access token for the GitHub API. Get one at: https://github.com/settings/tokens",
